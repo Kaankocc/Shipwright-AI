@@ -1,0 +1,35 @@
+.DS_Store
+**/node_modules/
+**/dist/
+**/build/
+**/coverage/
+**/logs/
+**/temp/
+**/package-lock.json
+**/yarn.lock
+**/tsconfig*.json
+.vscode/
+**/.env
+**/.env.local
+**/.env.development
+**/.env.production
+**/.env.test
+**/.env.development.local
+**/.env.production.local
+**/.env.test.local
+**/__pycache__/
+**/shipwright-ai-env
+
+# Google Cloud service account keys and credentials
+**/*Vertex*.json
+**/*vertex*.json
+**/*service-account*.json
+**/*credentials*.json
+**/google-credentials.json
+**/gcp-credentials.json
+
+# Other sensitive files
+**/*.key
+**/*.pem
+**/*.p12
+**/*.pfx

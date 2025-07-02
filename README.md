@@ -4,6 +4,8 @@
 
 > **AI-Powered Code Generation Platform** - Build complete software projects from natural language descriptions
 
+Demo URL: https://drive.google.com/file/d/1tuxOE8h4LFjmTSVgPIJ4r3vRhHgNHQDg/view?usp=sharing
+
 Shipwright AI is a personal project that revolutionizes software development by combining AI-powered code generation with GitLab integration and CI/CD automation. Simply describe your project idea in natural language, and watch as the platform generates a complete starter codebase, sets up GitLab repositories, and configures deployment pipelines.
 
 ## ✨ Features
